@@ -3,3 +3,5 @@ Comandos Git
 - git clone + link do repositório = Clonar repositório;
 - git add. = Adicionar arquivos; ou git add -A;
 - git status = Verifica se todos os arquivos estão adicionados ao controle de versão;
+- Git commit -m "Primeiro commit"
+- git push origin main
