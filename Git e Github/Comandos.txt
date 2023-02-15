@@ -4,5 +4,6 @@ Comandos Git
 - git add. = Adicionar arquivos; ou git add -A;
 - git status = Verifica se todos os arquivos estão adicionados ao controle de versão;
 - git commit -m "primeiro commit" = commita os arquivos e deixa preparado para o push;
-- git push origin main = Envia os arquivos ao github;
+- git push origin nomedabranch = Envia os arquivos ao github;
 - git pull = mesclar repositório web para o local;
+- git remote add origin nomedorepositorio = Adiciona o destino dos commits;
